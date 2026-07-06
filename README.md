@@ -70,7 +70,6 @@ Tooling        Git · Jupyter · Streamlit · Flask · Plotly · Swagger UI · C
 
 ## Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihir182001&layout=compact&theme=default&hide_border=true&langs_count=6)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihir182001&show_icons=true&theme=default&hide_border=true&count_private=true&hide=stars&rank_icon=github)
 
